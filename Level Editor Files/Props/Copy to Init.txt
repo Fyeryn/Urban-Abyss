@@ -1,0 +1,5 @@
+-["City", color(80, 255, 80)]
+[#nm:"Roof Antenna", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(7, 9), #repeatL:[1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Street Lamp", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(3, 16), #repeatL:[1,1,1,2,12,1], #tags:[], #layerExceptions:[], #notes:["This prop takes 2 layers."]]
+[#nm:"Indoor City Lamp", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(3, 3), #repeatL:[1,1,1,1,2,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Big Indoor City Lamp", #tp:"standard", #colorTreatment:"standard", #bevel:1, #sz:point(6, 6), #repeatL:[1,1,1,1,2,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
