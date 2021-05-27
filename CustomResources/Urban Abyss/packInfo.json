@@ -1,0 +1,12 @@
+{
+   "regionPackName": "Urban Abyss", 
+   "description": "No description", 
+   "author": "Community Region-Jam 3", 
+   "activated": true, 
+   "loadOrder": 100, 
+   "regions": "UA", 
+   "thumbURL": "", 
+   "version": "1.0", 
+   "requirements": "UrbanAbyss.dll", 
+   "checksum": "" 
+}
